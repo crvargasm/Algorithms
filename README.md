@@ -4,4 +4,5 @@ By: Cristian Camilo Vargas Morales - Computer and Systems Engineering Student
 
 ---
 
-LAB 1: Quantopian Research 1-5.
+LAB 1: Quantopian Research 1-5. \
+LAB 2: Challenges worked in group (Group 6).
